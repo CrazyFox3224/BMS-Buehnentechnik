@@ -54,13 +54,13 @@
 
 ## Macbook Specs
 
-### Jahrgang : ?
+### Jahrgang : 2015
 ### CPU : ?
-### RAM :?
-### SSD : ?
-### macOS : ?
-### Programme : JA / Nein ?
-### Dual Boot? : ?
+### RAM : 16GB
+### SSD : 251GB
+### macOS : 12 (Montery)
+### Programme : JA / (TechnikBMS) 
+### Dual Boot? : Noch nicht
 
 </details>
 
