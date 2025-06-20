@@ -87,7 +87,7 @@
 ## Macbook Specs
 
 ### Jahrgang : Ende 2013 
-### CPU : ?
+### CPU : i7 2,8GHz
 ### RAM : 16GB
 ### SSD : 128GB
 ### macOS : Big Sur 
