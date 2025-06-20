@@ -90,8 +90,8 @@
 ### CPU : ?
 ### RAM : 16GB
 ### SSD : 128GB
-### macOS : Big Sur ??? (War vorinstalliert)
-### Programme : JA / Nein ?
+### macOS : Big Sur 
+### Programme : JA / (TechnikBMS)
 ### Dual Boot? : Windows
 
 </details>
