@@ -41,7 +41,7 @@
 ### Jahrgang : Mitte 2015
 ### CPU : i5 2,7GHz
 ### RAM : 16GB
-### SSD : 512GB
+### SSD : 256GB -> vlt. Upgrade auf 512GB : [Amazon Link](https://www.amazon.de/dp/B0DHRW6PLT?tag=klarersieger388642-21&linkCode=osi&th=1&psc=1)
 ### macOS : 12 (Monterey)
 ### Programme : JA / (TechnikBMS)
 ### Dual Boot? : JA : Windows
